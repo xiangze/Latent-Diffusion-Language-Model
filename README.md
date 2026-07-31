@@ -1,6 +1,8 @@
 # Latent Diffusion Language Model
 
 This implementation aim to the hybrid of hierachical processing in auto regressive language model like PHOTON and latent diffusion language models such as BD3-LM.
+The difference of each architecture is shown in followning figure.
+![](img/archs.png)
 
 ## Evaluation & Result
 
